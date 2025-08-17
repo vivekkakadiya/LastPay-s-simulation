@@ -1,5 +1,11 @@
 # LastPay Simulation Project
 
+
+
+https://github.com/user-attachments/assets/4cb0cbf3-5696-4d25-8ad7-f54c1199eed3
+
+
+
 A simplified simulation of LastPay's core workflow using Next.js frontend and Spring Boot backend. This project demonstrates the integration between dealer, insurance, and banking services for car financing.
 
 ## 🏗️ Project Structure
